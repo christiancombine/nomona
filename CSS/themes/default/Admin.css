@@ -1,0 +1,53 @@
+body {
+  font:
+    normal 8pt/normal "Verdana",
+    Verdana,
+    sans-serif;
+  margin-top: 0;
+  text-transform: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited,
+a:active {
+  color: Blue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#AdminContainer {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.Button {
+  cursor: pointer;
+  background-color: #fff;
+  border: solid 1px #333;
+  color: #333;
+  font-family: Verdana, Sans-Serif;
+  font-size: 0.9em;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+}
+
+.Button:link,
+.Button:visited {
+  border: solid 1px #777;
+  color: #777;
+}
+
+.Button:hover,
+.Button:active {
+  background-color: #6e99c9;
+  border: solid 1px #000;
+  color: #fff;
+}

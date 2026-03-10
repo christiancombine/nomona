@@ -1,0 +1,156 @@
+.clothe {
+  width: 110px;
+  /*height: 200px;*/
+  margin: 10px;
+  text-align: left;
+
+  vertical-align: top;
+  display: inline-block;
+  display: -moz-inline-stack;
+  display: inline;
+}
+.clothe .name {
+  font-weight: bold;
+}
+.nocl {
+  font-family: Verdana;
+  font-weight: bold;
+  text-align: center;
+}
+.img {
+  border: none;
+  height: 100%;
+}
+.imgc {
+  border: 1px solid black;
+  width: 110px;
+  height: 110px;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+}
+.fixed {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: #eeeeee;
+  border: 1px solid #555555;
+  color: blue;
+  font-family: Verdana;
+  font-size: 10px;
+  font-weight: lighter;
+}
+#left {
+  width: 69%;
+  float: left;
+}
+#right {
+  width: 30%;
+  float: right;
+}
+#Body table {
+  border: 1px black solid;
+}
+.tablehead {
+  font-size: 16px;
+  font-weight: bold;
+  border-bottom: black 1px solid;
+  width: 100%;
+  background-color: #cccccc;
+  color: #222222;
+}
+.tablebody {
+  font-weight: lighter;
+  background-color: transparent;
+  font-family: Verdana;
+}
+.margin {
+  margin: 10px;
+}
+.clickable,
+.clickable3,
+.clickable2 {
+  border: none;
+  margin: 1px;
+}
+.clickable {
+  width: 50px;
+  height: 50px;
+}
+.clickablesm {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+}
+.clickable2 {
+  width: 47px;
+  height: 100px;
+}
+.clickable3 {
+  width: 100px;
+  height: 100px;
+}
+.nonsbtn {
+  font-weight: normal;
+}
+#col {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -105px;
+  margin-left: -205px;
+  width: 410px;
+  height: 210px;
+  z-index: 498;
+  background-color: white;
+  text-align: center;
+  vertical-align: center;
+}
+.tablebody a {
+  color: blue;
+}
+.tablebody a:hover {
+  cursor: pointer;
+}
+#left {
+  width: 69%;
+  float: left;
+}
+.clickable2 {
+  width: 47px;
+  height: 100px;
+}
+.clickable3 {
+  width: 100px;
+  height: 100px;
+}
+#right {
+  width: 30%;
+  float: right;
+}
+.tablebody {
+  font-weight: lighter;
+  background-color: transparent;
+  font-family: Verdana;
+}
+.clickable {
+  width: 50px;
+  height: 50px;
+}
+.clickable,
+.clickable3,
+.clickable2 {
+  border: none;
+  margin: 1px;
+}
+#Body table {
+  border: 1px black solid;
+}
+.tablehead {
+  font-size: 16px;
+  font-weight: bold;
+  border-bottom: black 1px solid;
+  width: 100%;
+  background-color: #cccccc;
+  color: #222222;
+}

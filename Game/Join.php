@@ -1,0 +1,1 @@
+dofile("http://nomona.fit/Game/JoinScript.php")
