@@ -11,3 +11,4 @@ every namon should be rebirthed with this repo...
 anyways noobs invite : https://discord.gg/FrWXjztf
 
 # FIND ME YOU PEDOPHILE 
+also i need devs for metourite private fork so pls :) help me out on backend
