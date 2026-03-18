@@ -6,3 +6,6 @@ ampps will let u use phpmyadmin etc
 dont worry mofos src will be done :3 
 
 naco if u are reading this dont worry i datamined ur api :)
+
+every namon should be rebirthed with this repo...
+anyways noobs invite : https://discord.gg/FrWXjztf
