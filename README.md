@@ -9,3 +9,5 @@ naco if u are reading this dont worry i datamined ur api :)
 
 every namon should be rebirthed with this repo...
 anyways noobs invite : https://discord.gg/FrWXjztf
+
+# FIND ME YOU PEDOPHILE 
