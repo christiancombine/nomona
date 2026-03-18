@@ -1,7 +1,7 @@
-# Nomona source
+# Combines Nomona GUIDE
+# yes u stupid [REDACTED]
+anyways u need AMPPS or other lamp client idk
+ampps will let u use phpmyadmin etc
 
-dont contact me on how to set this up.
+dont worry mofos src will be done :3 
 
-# recreate the database structure yourself.
-
-goodbye, im leaving the orc
