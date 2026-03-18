@@ -5,3 +5,4 @@ ampps will let u use phpmyadmin etc
 
 dont worry mofos src will be done :3 
 
+naco if u are reading this dont worry i datamined ur api :)
